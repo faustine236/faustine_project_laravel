@@ -7,7 +7,9 @@
 </head>
 <body>
   <h1 class="text-3xl font-bold underline text-orange-700 p-10 bg-sky-950 text-center">
-    Hello world!
+    Halo Nama Saya {{$name}}
   </h1>
+  i live in {{$adrees}},and my email is {{$gmail}}
+</p>
 </body>
 </html>
